@@ -1,0 +1,25 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  gap: 15px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  height: 50px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 1000px;
+  justify-content: center;
+ margin: auto;
+ display: block;
+  height: 500px;
+}
